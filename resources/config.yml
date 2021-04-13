@@ -1,0 +1,5 @@
+# ジャンプでの落下ダメージを無効にするか
+disable-fall-damage: false
+
+# ダメージを受けるなくなる時間(秒)
+disable-fall-damage-time: 8
